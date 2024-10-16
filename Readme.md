@@ -25,7 +25,7 @@ This project provides an introduction to Artificial Intelligence and Machine Lea
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/parkinsons-disease-detection.git
+    git clone https://github.com/mrkshreyash/parkinson-detection.git
     ```
 2. Run the Jupyter notebook:
     ```bash
